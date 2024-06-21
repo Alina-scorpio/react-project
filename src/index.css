@@ -12,3 +12,13 @@ body {
   min-height: 100vh;
   background-color: bisque;
 }
+
+h2 {
+  margin: 20px;
+  color: blueviolet;
+}
+
+p {
+  font-size: 28px;
+  color: red;
+}
