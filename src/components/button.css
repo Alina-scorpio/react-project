@@ -1,0 +1,13 @@
+button {
+  padding: 10px 20px;
+  margin: 20px;
+  background-color: coral;
+  color: white;
+  font-size: 28px;
+}
+
+button:hover {
+  background-color: white;
+  color: coral;
+  cursor: pointer;
+}
